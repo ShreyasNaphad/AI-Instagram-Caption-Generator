@@ -1,4 +1,4 @@
-#A premium, AI-powered Instagram Caption and Hashtag Generator using React, TypeScript, and the Groq API (Llama 3.1 8b).
+**A premium, AI-powered Instagram Caption and Hashtag Generator using React, TypeScript, and the Groq API (Llama 3.1 8b).**
 
 Key Features
 AI-Powered Content: Generates 5 trendy captions and 10 trending hashtags based on user context.
